@@ -110,7 +110,7 @@ var x = setInterval(function () {
         })
     }
 
-    console.log(time)
+//     console.log(time)
     distance = distance - 1000;
 
 }, 1000);
